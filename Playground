@@ -1,7 +1,27 @@
+import java.util.Scanner;
+
 public class program {
 
 public static void main (String[] args) {
-System.out.println("Hello");
+
+Text Text = new Text();
+Text.Out();
+
+}
+
+}
+
+private class Text{
+
+static void In() {
+Scanner in = new Scanner (System.in);
+string input = in.nextln();
+}
+
+static void Out() {
+static void In() {
+string input = in.nextln();
+System.out.println(input);
 }
 
 }
