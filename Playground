@@ -19,7 +19,6 @@ string input = in.nextln();
 }
 
 static void Out() {
-static void In() {
 string input = in.nextln();
 System.out.println(input);
 }
