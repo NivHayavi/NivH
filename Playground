@@ -15,11 +15,11 @@ private class Text{
 
 static void In() {
 Scanner in = new Scanner (System.in);
-string input = in.nextln();
+String input = in.nextln();
 }
 
 static void Out() {
-string input = in.nextln();
+String input = in.nextln();
 System.out.println(input);
 }
 
